@@ -12,3 +12,5 @@ layout: page
 
 [Radiopaedia](https://radiopaedia.org/)
 >note to self: add a quick search link here that opens in a new tab
+
+[doggo](/images/doggo.jpg)
