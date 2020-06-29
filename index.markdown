@@ -14,4 +14,3 @@ layout: page
 >note to self: add a quick search link here that opens in a new tab
 
 [doggo](/images/doggo.jpg)
-[doggo2](/images/noideacrop.jpg)
