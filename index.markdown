@@ -6,11 +6,11 @@ layout: page
 ---
 # Useful links
 
-[Radpoint](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Pages/default.aspx).  Must be on VPN or on intranet
+[Radpoint](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Pages/default.aspx){:target="_blank"}.  Must be on VPN or on intranet
 
-[Webmail](https://outlook.office.com/owa/?realm=PennMedicine.upenn.edu&path=/mail/inbox)
+[Webmail](https://outlook.office.com/owa/?realm=PennMedicine.upenn.edu&path=/mail/inbox){:target="_blank"}
 
-[Radiopaedia](https://radiopaedia.org/)
+[Radiopaedia](https://radiopaedia.org/){:target="_blank"}
 >note to self: add a quick search link here that opens in a new tab
 
 [doggo](/images/doggo.jpg)
