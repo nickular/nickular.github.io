@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+
 ---
 # Useful links
 
@@ -13,4 +14,18 @@ layout: page
 [Radiopaedia](https://radiopaedia.org/){:target="_blank"}
 >note to self: add a quick search link here that opens in a new tab
 
-[doggo](/images/doggo.jpg)
+[Montage](http://upmpowerdbwn01/accounts/login/){:target="_blank"}
+
+[SVC diagram](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Shared%20Documents/Resident%20Resources/Chest%20Radiology/Cavoatrial%20Junction%20Diagram.pdf){:target="_blank"}
+
+{::options parse_block_html="true" /}
+<details>  
+<summary markdown="span"> Contrast Links </summary>  
+
+[IV contrast policy](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Shared%20Documents/Policy%202020/C8%20Iodinated%20IV%20Contrast.docx){:target="_blank"}
+
+[Extravasation steps](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Shared%20Documents/Policy%20for%20Contrast%20Extrav%20Update%20April%202019.pdf){:target="_blank"}
+
+</details>
+
+[doggo](/images/doggo.jpg){:target="_blank"}
