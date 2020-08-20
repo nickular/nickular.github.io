@@ -5,6 +5,10 @@
 layout: page
 
 ---
+[New Page via Amazon](https://master.dya4dxrhebtwk.amplifyapp.com/)
+
+
+
 # Useful links
 
 [Radpoint](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Pages/default.aspx){:target="_blank"}.  Must be on VPN or on intranet
@@ -19,8 +23,8 @@ layout: page
 [SVC diagram](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Shared%20Documents/Resident%20Resources/Chest%20Radiology/Cavoatrial%20Junction%20Diagram.pdf){:target="_blank"}
 
 {::options parse_block_html="true" /}
-<details>  
-<summary markdown="span"> Contrast Links </summary>  
+<details>
+<summary markdown="span"> Contrast Links </summary>
 
 [IV contrast policy](http://pennpointplus.uphs.upenn.edu/sites/Radpoint/Shared%20Documents/Policy%202020/C8%20Iodinated%20IV%20Contrast.docx){:target="_blank"}
 
